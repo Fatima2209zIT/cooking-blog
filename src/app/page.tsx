@@ -12,7 +12,7 @@ export default function Home() {
     },
     {
       title: "The Irresistible World of Chinese Rice 🍚🌏",
-      image: "/Chineserice.jpeg", // Reference directly from public folder
+      image: "/chineserice.jpg", // Reference directly from public folder
       link: "/ChineseRice"
     },
     {
